@@ -1,7 +1,7 @@
-<h1 align="center"> Titulo provisório </h1>
+<h1 align="center"> Nlw - Copa </h1>
 
 <p align="center">
-Sub titulo provisório.
+Projeto desenvolvido durante evento da Rocketseat
 </p>
 
 <p align="center">
@@ -12,13 +12,19 @@ Sub titulo provisório.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <a href="https://github.com/RennanPereira">
+    <img alt="Made by Rennan Pereira" src="https://img.shields.io/badge/Made%20by-Rennan%20Pereira-2ecc71">
+  </a>
+
+  <a href="https://www.linkedin.com/in/rennan-santos-pereira/" target="_blank">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-rennanpereira-2ecc71?style=social&logo=linkedin">
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="preview" src=".github/preview.png" width="100%">
+  <img alt="preview" src="./src/.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,15 +35,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e JSON
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
 
 ## 💻 Projeto
 
-Descrição provisória do projeto.
-
+Cartões da Copa do mundo 2022 disponibilizando informações sobre os jogos do Brasil e algumas outras seleções.
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/IwzVPovGpTGb8UGZEos4PJ/Calend%C3%A1rio-de-Jogos-(Community)?node-id=122%3A130). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
